@@ -6,7 +6,10 @@
     - Commit the entire Anaconda popsim environment folder to this repo
   - To download a zipped version of the complete Python setup
     - Click https://github.com/RSGInc/populationsim_python/archive/master.zip
+  - To use this repo
+    - popsim\python.exe my_script.py
 
 ## Additional Resources
 
+  - https://github.com/RSGInc/populationSim
   - https://github.com/RSGInc/populationSim_resources
