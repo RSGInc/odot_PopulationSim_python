@@ -1,0 +1,99 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\ben.stabler\\.conda\\pkgs\\six-1.13.0-py27_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/six-1.13.0.dist-info/INSTALLER",
+    "Lib/site-packages/six-1.13.0.dist-info/LICENSE",
+    "Lib/site-packages/six-1.13.0.dist-info/METADATA",
+    "Lib/site-packages/six-1.13.0.dist-info/RECORD",
+    "Lib/site-packages/six-1.13.0.dist-info/WHEEL",
+    "Lib/site-packages/six-1.13.0.dist-info/top_level.txt",
+    "Lib/site-packages/six.py",
+    "Lib/site-packages/six.pyc"
+  ],
+  "fn": "six-1.13.0-py27_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ben.stabler\\.conda\\pkgs\\six-1.13.0-py27_0",
+    "type": 1
+  },
+  "md5": "e74a0acccd726b8c59d0be5f4c16e34b",
+  "name": "six",
+  "package_tarball_full_path": "C:\\Users\\ben.stabler\\.conda\\pkgs\\six-1.13.0-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b7529b8c07171a78a8c36c3283905528e4812945d977d125eb926e8ccbf245b6",
+        "sha256_in_prefix": "b7529b8c07171a78a8c36c3283905528e4812945d977d125eb926e8ccbf245b6",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f563f42f91d5c16bae1ec946675a9ab223a3b7ec3991eff9188f0097f59e9214",
+        "sha256_in_prefix": "f563f42f91d5c16bae1ec946675a9ab223a3b7ec3991eff9188f0097f59e9214",
+        "size_in_bytes": 1992
+      },
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c198b1400eb9d4438ecc54eea0bcfec33177dbecb184e64b8fa6ff135e90cbce",
+        "sha256_in_prefix": "c198b1400eb9d4438ecc54eea0bcfec33177dbecb184e64b8fa6ff135e90cbce",
+        "size_in_bytes": 537
+      },
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2595ed61ea5916c7f82288af3699d280a21ce2a4c76a7d3c0d1779ea4a28fc33",
+        "sha256_in_prefix": "2595ed61ea5916c7f82288af3699d280a21ce2a4c76a7d3c0d1779ea4a28fc33",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/six-1.13.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/six.py",
+        "path_type": "hardlink",
+        "sha256": "6ec1334854d94f1e3dc10b6d2ce4664994eba6319cf146d7b7e1c16bf2d95fb4",
+        "sha256_in_prefix": "6ec1334854d94f1e3dc10b6d2ce4664994eba6319cf146d7b7e1c16bf2d95fb4",
+        "size_in_bytes": 33045
+      },
+      {
+        "_path": "Lib/site-packages/six.pyc",
+        "path_type": "hardlink",
+        "sha256": "9327e996992379a1e2319c6a7bf148ec2add500d0530994a5cf8fb8b4f161050",
+        "sha256_in_prefix": "9327e996992379a1e2319c6a7bf148ec2add500d0530994a5cf8fb8b4f161050",
+        "size_in_bytes": 31510
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 22490,
+  "subdir": "win-64",
+  "timestamp": 1572980440701,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/six-1.13.0-py27_0.tar.bz2",
+  "version": "1.13.0"
+}

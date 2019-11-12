@@ -1,0 +1,86 @@
+{
+  "arch": "x86_64",
+  "build": "vc9h0510ff6_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/intel/win-64",
+  "constrains": [],
+  "depends": [
+    "intelpython >=2019.0",
+    "vc"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda3\\pkgs\\zlib-1.2.11-vc9h0510ff6_5",
+  "features": "vc9",
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "Library/share/pkgconfig/zlib.pc"
+  ],
+  "fn": "zlib-1.2.11-vc9h0510ff6_5.tar.bz2",
+  "license": "zlib (http://zlib.net/zlib_license.html)",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda3\\pkgs\\zlib-1.2.11-vc9h0510ff6_5",
+    "type": 1
+  },
+  "md5": "80ef630537a45e14bfe6cf10cec5fa47",
+  "name": "zlib",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda3\\pkgs\\zlib-1.2.11-vc9h0510ff6_5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/zlib.dll",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/include/zconf.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/include/zlib.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/lib/z.lib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/lib/zdll.lib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/lib/zlib.lib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/lib/zlibstatic.lib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/share/man/man3/zlib.3",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "Library/share/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/TCAgent2/work/def04e375600794a/conda-build/zlib_1533306049854/_h_env",
+        "sha256_in_prefix": "2b85c798687f71feae0ba00d657c650f2408cd92f5ecd2099802d9af46de4758"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 132023,
+  "subdir": "win-64",
+  "timestamp": 1533306068989,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/intel/win-64/zlib-1.2.11-vc9h0510ff6_5.tar.bz2",
+  "version": "1.2.11"
+}

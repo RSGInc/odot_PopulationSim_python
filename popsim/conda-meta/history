@@ -1,0 +1,39 @@
+==> 2019-11-12 13:51:16 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -n popsim python=2.7
+# conda version: 4.6.11
++conda-forge::certifi-2019.9.11-py27_0
++conda-forge::pip-19.3.1-py27_0
++conda-forge::python-2.7.15-h2880e7c_1009
++conda-forge::setuptools-41.6.0-py27_1
++conda-forge::vs2008_runtime-9.0.30729.6161-0
++conda-forge::wheel-0.33.6-py27_0
++conda-forge::wincertstore-0.2-py27_1003
++intel::vc-9.0-2
+# update specs: ['python=2.7']
+==> 2019-11-12 13:52:21 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install cytoolz numpy pandas psutil pytables future
+# conda version: 4.6.11
++conda-forge::blosc-1.17.0-hc56fc5f_1
++conda-forge::cytoolz-0.10.1-py27h0c8e037_0
++conda-forge::funcsigs-1.0.2-py_3
++conda-forge::future-0.18.2-py27_0
++conda-forge::hdf5-1.10.4-nompi_hb8085ad_1106
++conda-forge::libblas-3.8.0-14_mkl
++conda-forge::libcblas-3.8.0-14_mkl
++conda-forge::liblapack-3.8.0-14_mkl
++conda-forge::mock-3.0.5-py27_0
++conda-forge::numexpr-2.7.0-py27hc56fc5f_0
++conda-forge::numpy-1.16.5-py27h0d21db5_0
++conda-forge::pandas-0.24.2-py27h0e003f4_0
++conda-forge::psutil-5.6.5-py27h0c8e037_0
++conda-forge::pytables-3.5.1-py27hef33e63_1
++conda-forge::python-dateutil-2.8.1-py_0
++conda-forge::pytz-2019.3-py_0
++conda-forge::six-1.13.0-py27_0
++conda-forge::toolz-0.10.0-py_0
++defaults::mkl-2019.4-245
++intel::bzip2-1.0.6-vc9_18
++intel::intel-openmp-2019.5-intel_281
++intel::intelpython-2019.5-0
++intel::zlib-1.2.11-vc9h0510ff6_5
+# update specs: ['cytoolz', 'future', 'psutil', 'pytables', 'pandas', 'numpy']

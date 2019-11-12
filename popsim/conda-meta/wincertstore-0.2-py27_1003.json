@@ -1,0 +1,58 @@
+{
+  "build": "py27_1003",
+  "build_number": 1003,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\ben.stabler\\.conda\\pkgs\\wincertstore-0.2-py27_1003",
+  "features": "",
+  "files": [
+    "Lib/site-packages/wincertstore-0.2-py2.7.egg-info",
+    "Lib/site-packages/wincertstore.py",
+    "Lib/site-packages/wincertstore.pyc"
+  ],
+  "fn": "wincertstore-0.2-py27_1003.tar.bz2",
+  "license": "PSF 2",
+  "link": {
+    "source": "C:\\Users\\ben.stabler\\.conda\\pkgs\\wincertstore-0.2-py27_1003",
+    "type": 1
+  },
+  "md5": "0fc11795e5b7e0e1de8407d74c6b95f4",
+  "name": "wincertstore",
+  "package_tarball_full_path": "C:\\Users\\ben.stabler\\.conda\\pkgs\\wincertstore-0.2-py27_1003.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/wincertstore-0.2-py2.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "93144d788fa39ec56670ebda46565e24e2ee60e213d4c68b0d81af3877772545",
+        "sha256_in_prefix": "93144d788fa39ec56670ebda46565e24e2ee60e213d4c68b0d81af3877772545",
+        "size_in_bytes": 5785
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore.py",
+        "path_type": "hardlink",
+        "sha256": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "sha256_in_prefix": "9eb1879f68dcdd125eb0ed737ed331f16e335a6a5208ec9f26fd3dd6220cfd08",
+        "size_in_bytes": 11873
+      },
+      {
+        "_path": "Lib/site-packages/wincertstore.pyc",
+        "path_type": "hardlink",
+        "sha256": "e2e17280e51b2534a6d3837a2e62f2a74aad174a853caf49defe5fd0ca72641f",
+        "sha256_in_prefix": "e2e17280e51b2534a6d3837a2e62f2a74aad174a853caf49defe5fd0ca72641f",
+        "size_in_bytes": 13141
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 13325,
+  "subdir": "win-64",
+  "timestamp": 1572619818252,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/wincertstore-0.2-py27_1003.tar.bz2",
+  "version": "0.2"
+}

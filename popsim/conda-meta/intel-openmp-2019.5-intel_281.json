@@ -1,0 +1,59 @@
+{
+  "arch": "x86_64",
+  "build": "intel_281",
+  "build_number": 281,
+  "channel": "https://conda.anaconda.org/intel/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\ben.stabler\\.conda\\pkgs\\intel-openmp-2019.5-intel_281",
+  "features": "",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libiomp5md.pdb",
+    "Library/bin/libiompstubs5md.dll"
+  ],
+  "fn": "intel-openmp-2019.5-intel_281.tar.bz2",
+  "license": "proprietary - Intel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\ben.stabler\\.conda\\pkgs\\intel-openmp-2019.5-intel_281",
+    "type": 1
+  },
+  "md5": "52e1123b2aab69cc7a715b0e7d3d8967",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "C:\\Users\\ben.stabler\\.conda\\pkgs\\intel-openmp-2019.5-intel_281.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libiomp5md.dll",
+        "path_type": "hardlink",
+        "sha256": "fe59309b121c1db38008a9277fcb2915639aa9dac4528894db3a3d2228fc9346",
+        "sha256_in_prefix": "fe59309b121c1db38008a9277fcb2915639aa9dac4528894db3a3d2228fc9346",
+        "size_in_bytes": 1884496
+      },
+      {
+        "_path": "Library/bin/libiomp5md.pdb",
+        "path_type": "hardlink",
+        "sha256": "3842ff8e75966d835649d9f3a255745f4c57718c9e6d3e8897559a4548b8b8ab",
+        "sha256_in_prefix": "3842ff8e75966d835649d9f3a255745f4c57718c9e6d3e8897559a4548b8b8ab",
+        "size_in_bytes": 5139456
+      },
+      {
+        "_path": "Library/bin/libiompstubs5md.dll",
+        "path_type": "hardlink",
+        "sha256": "4ddb08445c8721d68cbc4072afa6f3e09e7add246c6c0fd692ec4cf0554cf9da",
+        "sha256_in_prefix": "4ddb08445c8721d68cbc4072afa6f3e09e7add246c6c0fd692ec4cf0554cf9da",
+        "size_in_bytes": 111952
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 1996116,
+  "subdir": "win-64",
+  "timestamp": 1566225538334,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/intel/win-64/intel-openmp-2019.5-intel_281.tar.bz2",
+  "version": "2019.5"
+}
